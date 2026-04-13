@@ -2,6 +2,9 @@
                              CORALINEOS
                              VERSION 1.0
 
+
+![CoralineOs Screenshot](preview.png)
+
 [ DESCRIPTION ]
 CoralineOS is a Python-based terminal interface designed for 
 simplicity and style. It provides a calculator and dices, wrapped in 
