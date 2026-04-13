@@ -18,7 +18,7 @@ a custom-designed ASCII aesthetic.
 [ HOW TO START ]
 1. Ensure Python 3.x is installed.
 2. Install dependencies: 'pip install rich'
-3. Run the script: 'python CoralineOs.py'
+3. Open the .py file
 
 [ CONTROLS ]
 - Use numbers (1 or 2) to navigate the menu.
