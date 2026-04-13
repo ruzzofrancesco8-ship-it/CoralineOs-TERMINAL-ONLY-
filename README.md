@@ -3,7 +3,7 @@
                              VERSION 1.0
 
 
-![CoralineOs Screenshot](preview.png)
+![CoralineOs Screenshot](preview.png.png)
 
 [ DESCRIPTION ]
 CoralineOS is a Python-based terminal interface designed for 
