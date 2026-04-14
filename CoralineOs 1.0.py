@@ -2,6 +2,7 @@ import random
 from rich import print
 import datetime
 from datetime import datetime
+import time
 
 title = r'''
 _________                     .__  .__              ________          
@@ -14,8 +15,9 @@ _________                     .__  .__              ________
 while True:
     now = datetime.now()
 
-    date = now.strftime("%H : %M")
-    print(date)
+    date = now.strftime("%D    %H : %M")
+    print(date, end="\r")
+    time.sleep(1)
     print(f"[red]{title}[/red]")
     greetings = ["Welcome to CoralineOs! Choose an option: ", "Greetings to CoralineOs! Choose an option: "]
     greeting = random.choice(greetings)
